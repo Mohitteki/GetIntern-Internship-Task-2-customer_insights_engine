@@ -1,0 +1,6 @@
+,customer_id,name,city,num_orders,total_spend,avg_order_value
+1,U002814,Patricia Olson,West Michaelville,1.0,6360.11,6360.11
+2,U006469,Audrey Ware,South Robertstad,2.0,6341.39,3170.7
+3,U005921,Stanley Wood,South Peterstad,1.0,6195.8,6195.8
+4,U005803,Alyssa Jones,Turnermouth,1.0,6066.85,6066.85
+5,U003637,Eric Hernandez,West Tonyashire,2.0,5952.53,2976.26
